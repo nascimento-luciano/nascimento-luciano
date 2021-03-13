@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nascimento-luciano/)](https://www.linkedin.com/in/nascimento-luciano/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2088ba?style=flat-square&labelColor=2088ba&logo=Telegram&logoColor=white&link=https://t.me/lucianosilvadonascimento)](https://t.me/lucianosilvadonascimento)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0092ff?style=flat-square&labelColor=0092ff&logo=Facebook&logoColor=white&link=https://www.facebook.com/satanaquia)](https://www.facebook.com/satanaquia)
-[![CNPq Badge](https://img.shields.io/badge/-CNPq-2200ff?style=flat-square&labelColor=2200ff&logo=CNPq&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
+[![CNPq Badge](https://img.shields.io/badge/-CNPq-2200ff?style=flat-square&labelColor=2200ff&logo=CNPQ&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-93df0e?style=flat-square&labelColor=93df0e&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-9353-3014)](https://orcid.org/0000-0001-9353-3014)
 
 
