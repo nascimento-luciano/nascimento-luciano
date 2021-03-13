@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nascimento-luciano)](https://github.com/nascimento-luciano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nascimento-luciano/)](https://www.linkedin.com/in/nascimento-luciano/)
-[![CNPq Badge](https://img.shields.io/badge/-CNPq-2200ff?style=flat-square&labelColor=2200ff&logo=cnpq&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2088ba?style=flat-square&labelColor=2088ba&logo=telegram&logoColor=white&link=https://t.me/lucianosilvadonascimento)](https://t.me/lucianosilvadonascimento)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0092ff?style=flat-square&labelColor=0092ff&logo=facebook&logoColor=white&link=https://www.facebook.com/satanaquia)](https://www.facebook.com/satanaquia)
+[![CNPq Badge](https://img.shields.io/badge/-CNPq-2200ff?style=flat-square&labelColor=2200ff&logo=cnpq&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
+[![Orcid Badge](https://img.shields.io/badge/-Orcid-93df0e?style=flat-square&labelColor=93df0e&logo=cnpq&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
+
 
 ### About me
 I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial Intelligence
