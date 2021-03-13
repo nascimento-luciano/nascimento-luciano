@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nascimento-luciano)](https://github.com/nascimento-luciano)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nascimento-luciano/)](https://www.linkedin.com/in/nascimento-luciano/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nascimento-luciano/)](https://www.linkedin.com/in/nascimento-luciano)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2088ba?style=flat-square&labelColor=2088ba&logo=Telegram&logoColor=white&link=https://t.me/lucianosilvadonascimento)](https://t.me/lucianosilvadonascimento)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0092ff?style=flat-square&labelColor=0092ff&logo=Facebook&logoColor=white&link=https://www.facebook.com/satanaquia)](https://www.facebook.com/satanaquia)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-d81e56?style=flat-square&labelColor=d81e56&logo=Instagram&logoColor=white&link=https://www.instagram.com/satanaquia)](https://www.instagram.com/satanaquia/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-d81e56?style=flat-square&labelColor=d81e56&logo=Instagram&logoColor=white&link=https://www.instagram.com/satanaquia)](https://www.instagram.com/satanaquia)
 [![CNPq Badge](https://img.shields.io/badge/-CNPq-180783?style=flat-square&labelColor=180783&logo=CNPq&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
 [![Orcid Badge](https://img.shields.io/badge/-Orcid-93df0e?style=flat-square&labelColor=93df0e&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0001-9353-3014)](https://orcid.org/0000-0001-9353-3014)
 
