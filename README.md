@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2088ba?style=flat-square&labelColor=2088ba&logo=telegram&logoColor=white&link=https://t.me/lucianosilvadonascimento)](https://t.me/lucianosilvadonascimento)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0092ff?style=flat-square&labelColor=0092ff&logo=facebook&logoColor=white&link=https://www.facebook.com/satanaquia)](https://www.facebook.com/satanaquia)
 [![CNPq Badge](https://img.shields.io/badge/-CNPq-2200ff?style=flat-square&labelColor=2200ff&logo=cnpq&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
-[![Orcid Badge](https://img.shields.io/badge/-Orcid-93df0e?style=flat-square&labelColor=93df0e&logo=cnpq&logoColor=white&link=http://lattes.cnpq.br/4809047964211685)](http://lattes.cnpq.br/4809047964211685)
+[![Orcid Badge](https://img.shields.io/badge/-Orcid-93df0e?style=flat-square&labelColor=93df0e&logo=cnpq&logoColor=white&link=https://orcid.org/0000-0001-9353-3014)](https://orcid.org/0000-0001-9353-3014)
 
 
 ### About me
