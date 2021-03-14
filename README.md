@@ -30,4 +30,4 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
 - These are subjects that are of interest to me, C/C++, Python, Kotlin, R, Pascal, Java, Scilab/Matlab, Git, Arduino, Embedded System, Mathematical Aapplications and more.
 
 - [Blog](https://medium.com/@luciano.nascimento) ✍🏼 - I intend to write some things.
-- [Facebook](https://www.facebook.com/satanaquia) 💻 - Working on it.
+- [Website] (coming soon) 💻 - Working on it.
