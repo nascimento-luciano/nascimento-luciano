@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### About me
 I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial Intelligence
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) :mortar_board:- This is a course with subjects that are of interest to me, C/C++, Python, Kotlin, R, Pascal, Java, Scilab/Matlab, Git, Arduino,Embedded System, Mathematical Aapplications and more
+- These are subjects that are of interest to me, C/C++, Python, Kotlin, R, Pascal, Java, Scilab/Matlab, Git, Arduino, Embedded System, Mathematical Aapplications and more.
+
 - [Blog](https://medium.com/@luciano.nascimento) ✍🏼 - I intend to write some things.
 - [Facebook](https://www.facebook.com/satanaquia) 💻 - Working on it.
