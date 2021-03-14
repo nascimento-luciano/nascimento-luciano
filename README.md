@@ -31,5 +31,3 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
 
 - [Blog](https://medium.com/@luciano.nascimento) ✍🏼 - I intend to write some things.
 - [Website] (coming soon) 💻 - Working on it.
-
-![GitHub watchers](https://img.shields.io/github/watchers/nascimento-luciano/nascimento-luciano?label=Watch&style=social)
