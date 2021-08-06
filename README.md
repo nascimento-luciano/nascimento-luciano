@@ -31,3 +31,9 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
 
 - [Blog](https://medium.com/@luciano.nascimento) ✍🏼 - I intend to write some things.
 - [Website] (coming soon) 💻 - Working on it.
+
+  <div>
+  <a href="https://github.com/nascimento-luciano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimento-luciano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimento-luciano&layout=compact&langs_count=7&theme=dark"/>
+</div>
