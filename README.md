@@ -35,5 +35,18 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
   <div>
   <a href="https://github.com/nascimento-luciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimento-luciano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimento-luciano&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
+  
+  <div> 
+   <a href="(https://github.com/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/satanaquia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="(https://t.me/lucianosilvadonascimento" target="_blank"><img src="https://img.shields.io/badge/Telegram-2088ba?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a> 
+ <a href="https://www.facebook.com/satanaquia" target="_blank"><img src="https://img.shields.io/badge/Facebook-0092ff?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 	
+  <a href="https://www.twitch.tv/warmagedoom" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <a href = "mailto:luciano.nascimento@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://lattes.cnpq.br/4809047964211685" target="_blank"><img src="https://img.shields.io/badge/CNPq-180783?style=for-the-badge&logo=CNPq&logoColor=white" target="_blank"></a>
+    <a href="https://orcid.org/0000-0001-9353-3014" target="_blank"><img src="https://img.shields.io/badge/Orcid-93df0e?style=for-the-badge&logo=Orcid&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
