@@ -40,4 +40,4 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
   
 </div>
      
-  ![Snake animation](https://github.com/nascimento-luciano/nascimento-luciano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
