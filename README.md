@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial Intelligence
 
 - These are subjects that are of interest to me, C/C++, Python, Kotlin, R, Pascal, Java, Scilab/Matlab, Git, Arduino, Embedded System, Data Science, IoT, Industry 4.0, Cloud Computing, Big Data, Physics, Mathematical Applications and more.
+   
+- [Curriculum](https://github.com/nascimento-luciano/Curriculum-Vitae)   
 
 - [Blog](https://medium.com/@luciano.nascimento) ✍🏼 - I intend to write some things.
 - [Website] (coming soon) 💻 - Working on it.
