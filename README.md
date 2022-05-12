@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <a href="http://lattes.cnpq.br/4809047964211685" target="_blank"><img src="https://img.shields.io/badge/CNPq-180783?style=for-the-badge&logo=CNPq&logoColor=white" target="_blank"></a>
     <a href="https://orcid.org/0000-0001-9353-3014" target="_blank"><img src="https://img.shields.io/badge/Orcid-93df0e?style=for-the-badge&logo=Orcid&logoColor=white" target="_blank"></a> 
    <a href="https://www.kaggle.com/nascimentoluciano" target="_blank"><img src="https://img.shields.io/badge/Kaggle-FF3300?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+      <a href="https://gitlab.com/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/Gitlab-FFFF00?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>   
     <a href="https://lucianonascimentoe.wixsite.com/curriculum-vitae" target="_blank"><img src="https://img.shields.io/badge/Wix-993399?style=for-the-badge&logo=Wix&logoColor=white" target="_blank"></a> 
    
 
