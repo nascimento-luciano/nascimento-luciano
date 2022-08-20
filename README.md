@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <a href="https://www.kaggle.com/nascimentoluciano" target="_blank"><img src="https://img.shields.io/badge/Kaggle-FF3300?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
       <a href="https://gitlab.com/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/Gitlab-FF0000?style=for-the-badge&logo=Gitlab&logoColor=white" target="_blank"></a>   
     <a href="https://lucianonascimentoe.wixsite.com/curriculum-vitae" target="_blank"><img src="https://img.shields.io/badge/Wix-993399?style=for-the-badge&logo=Wix&logoColor=white" target="_blank"></a>
-     <a href="https://discord.com/channels/@Luci#2307" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a> 
+     <a href="https://discord.com/channels/@Luci#2307" target="_blank"><img src="https://img.shields.io/badge/Discord-#696969?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a> 
    
    
 ### About me
