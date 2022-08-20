@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div> 
-   <a href="https://github.com/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a> 
+   <a href="https://github.com/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a>
+   <a href="https://gitlab.com/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/Gitlab-FF0000?style=for-the-badge&logo=Gitlab&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/satanaquia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://t.me/lucianosilvadonascimento" target="_blank"><img src="https://img.shields.io/badge/Telegram-2088ba?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a> 
  <a href="https://www.facebook.com/satanaquia" target="_blank"><img src="https://img.shields.io/badge/Facebook-0092ff?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 	
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
   <a href="http://lattes.cnpq.br/4809047964211685" target="_blank"><img src="https://img.shields.io/badge/CNPq-180783?style=for-the-badge&logo=CNPq&logoColor=white" target="_blank"></a>
     <a href="https://orcid.org/0000-0001-9353-3014" target="_blank"><img src="https://img.shields.io/badge/Orcid-93df0e?style=for-the-badge&logo=Orcid&logoColor=white" target="_blank"></a> 
    <a href="https://www.kaggle.com/nascimentoluciano" target="_blank"><img src="https://img.shields.io/badge/Kaggle-FF3300?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-      <a href="https://gitlab.com/nascimento-luciano" target="_blank"><img src="https://img.shields.io/badge/Gitlab-FF0000?style=for-the-badge&logo=Gitlab&logoColor=white" target="_blank"></a>   
     <a href="https://lucianonascimentoe.wixsite.com/curriculum-vitae" target="_blank"><img src="https://img.shields.io/badge/Wix-993399?style=for-the-badge&logo=Wix&logoColor=white" target="_blank"></a>
      <a href="https://discord.com/channels/@Luci#2307" target="_blank"><img src="https://img.shields.io/badge/Discord-4F4F4F?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a> 
    
