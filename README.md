@@ -46,8 +46,12 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
   
 </div>
 
-<i class="devicon-arduino-plain colored"></i>
-                   
+
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+          
+          
+          
 
 
 
