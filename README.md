@@ -45,5 +45,11 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimento-luciano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
+
+
      
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
