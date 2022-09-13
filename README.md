@@ -45,11 +45,7 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimento-luciano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
-
-
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-          
+        
           
           
 
