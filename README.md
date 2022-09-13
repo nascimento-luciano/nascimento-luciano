@@ -47,8 +47,6 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
 </div>
         
           
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
