@@ -57,6 +57,7 @@ I´m Luciano, I study Control and Automation Engineering | Robotics | Artificial
      
 
 
-     
+ <!--    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  -->
   
